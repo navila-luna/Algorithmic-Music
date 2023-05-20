@@ -1,0 +1,15 @@
+.sequencer {
+    text-align: center;
+    margin-top: 4rem;
+}
+.row2 {
+    margin-top: 1rem;
+}
+
+.row3 {
+    margin-top: 1rem;
+}
+/* Create a custom checkbox */
+.checkmark {
+    background-color: red;
+  }
